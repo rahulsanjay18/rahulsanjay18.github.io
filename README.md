@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my Github!
 
-You can use the [editor on GitHub](https://github.com/rahulsanjay18/rahulsanjay18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Rahul Shah, and I am currently a student of Computer Engineering at Penn State University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is my resume
 
-### Markdown
+And here is a list of my various projects (in semi-chronological order of start date)!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Calculator: Made to try to emulate the functionality of a TI-89 (at the very least, the functions that I or any college student would use)
+* Space-Shooter-FBLA: Yet another competition, this time a game made in Unity. This game, oddly enough, does have many bugs, but the game that I ended up submitting was checked for bugs, and I have no idea where the bug free version of the game is.
+* Minute Math v2: An extension on the first version, implementing a level for trigonometry and a better system to evaluate all equations
+* Minute Math v1: For the Congressional App Challenge I made a desktop application that tests you on how fast a person can do fast mathematics
+* CheckersCMDln: A (mostly) working checkers game that works in the command line
+* Cortex: Created for a competition, where I used JavaFx to create a Desktop Application. Cannot show the code, because I ended up wining the competition (7th in nation). Sorry!
+* arduinoCalculator: A four function arduino calculator. Made for a project I did in TinkerCAD. Was mostly to explore the arduino a little.
+* Trivia Game: an iOS project I did in tenth grade as my final project
 
-```markdown
-Syntax highlighted code block
+### Future project ideas:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulsanjay18/rahulsanjay18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* None yet.
