@@ -2,7 +2,7 @@
 
 Hello, my name is Rahul Shah, and I am currently a student of Computer Engineering at Penn State University.
 
-[Here is my resume](https://github.com/rahulsanjay18/rahulsanjay18.github.io/blob/master/Rahul%20Shah%20Resume.docx)
+[Here is my resume](https://github.com/rahulsanjay18/rahulsanjay18.github.io/raw/master/Rahul%20Shah%20Resume.docx)
 
 And here is a list of my various projects (in semi-chronological order of start date)! Some of the READMEs that need to be updated are not. Some of the older projects will not have updated READMEs.
 
