@@ -14,7 +14,3 @@ And here is a list of my various projects (in semi-chronological order of start 
 * Cortex: Created for a competition, where I used JavaFx to create a Desktop Application. Cannot show the code, because I ended up wining the competition (7th in nation). Sorry!
 * arduinoCalculator: A four function arduino calculator. Made for a project I did in TinkerCAD. Was mostly to explore the arduino a little.
 * Trivia Game: an iOS project I did in tenth grade as my final project
-
-### Future project ideas:
-
-* None yet.
