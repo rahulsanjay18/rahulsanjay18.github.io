@@ -8,6 +8,8 @@ And here is a list of my various projects (in semi-chronological order of start 
 
 * [3dGraph](https://rahulsanjay18.github.io/3dGraph): An attempt at creating holograms for the sake of visualizing graphs of 2 variables.
 
+* [ChessInC](https://rahulsanjay18.github.io/ChessInC): I really like the game of chess, so I figured I would try to program it. The original intent was to create a version of chess good for embedded systems, but for right now I need it to work so that's all I'm really aiming for (for now).
+
 * [Calculator](https://rahulsanjay18.github.io/Calculator/): Made to try to emulate the functionality of a TI-89 (at the very least, the functions that I or any college student would use)
 
 * [Space-Shooter-FBLA](https://rahulsanjay18.github.io/Space-Shooter-FBLA): Yet another competition, this time a game made in Unity. This game, oddly enough, does have many bugs, but the game that I ended up submitting was checked for bugs, and I have no idea where the bug free version of the game is.
