@@ -1,10 +1,10 @@
 ## Welcome to my Github!
 
-Hello, my name is Rahul Shah, and I am currently a student of Computer Engineering at Penn State University.
-
-[Here is my Resume](https://github.com/rahulsanjay18/rahulsanjay18.github.io/raw/master/Rahul%20Shah%20Resume.docx)
+Hello, my name is Rahul Shah, and I am currently a student of Computer Engineering/Mathematics at Penn State University.
 
 And here is a list of my various projects (in semi-chronological order of start date)! Some of the READMEs that need to be updated are not. Some of the older projects will not have updated READMEs.
+
+* [Audible Graph](https://rahulsanjay18.github.io/AudibleGraph): A little science experiment I thought up, to try to hear graphs. It basically generates an audio file via java standard audio (using code created by professors in princeton) that shows what a polynomial "sounds" like.
 
 * [Calculator](https://rahulsanjay18.github.io/Calculator/): Made to try to emulate the functionality of a TI-89 (at the very least, the functions that I or any college student would use)
 
