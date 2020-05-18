@@ -20,7 +20,7 @@ And here is a list of my various projects (in semi-chronological order of start 
 
 * [CheckersCMDln](https://rahulsanjay18.github.io/CheckersCMDln): A (mostly) working checkers game that works in the command line
 
-* Cortex: Created for a competition, where I used JavaFx to create a Desktop Application. Cannot show the code, because I ended up wining the competition (7th in nation). Sorry!
+* Cortex: Created for a competition, where I used JavaFx to create a Desktop Application. Cannot show the code, because I ended up winning the competition (7th in nation). Sorry!
 
 * [arduinoCalculator](https://rahulsanjay18.github.io/arduinoCalculator): A four function arduino calculator. Made for a project I did in TinkerCAD. Was mostly to explore the arduino a little.
 
